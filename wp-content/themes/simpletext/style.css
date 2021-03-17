@@ -2481,7 +2481,7 @@ blockquote cite:before {
 	background-color:#f8f8f8;
 }
 .yinhao {
-	background: url(https://www.fq12345.cc/wp-content/themes/simpletext/assets/img/qz.gif) no-repeat 100% 100%,url(https://www.fq12345.cc/wp-content/themes/simpletext/assets/img/qa.gif) no-repeat 0 0 #f8f8f8;
+	background: url(https://cdn.jsdelivr.net/gh/fqdata/fq12345/wp-content/themes/simpletext/assets/img/qz.gif) no-repeat 100% 100%,url(https://cdn.jsdelivr.net/gh/fqdata/fq12345/wp-content/themes/simpletext/assets/img/qa.gif) no-repeat 0 0 #f8f8f8;
 }
 .user-name-gw,.cont-head-gw {
 	pointer-events:none;
