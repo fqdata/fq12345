@@ -58,13 +58,13 @@ function shareTo(s){
 	//	pic='';
 	//}
 	if(s=='qzone'){
-		window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+url+'%3fsharesource=qzone&title='+title+'&pics='+pic+'&summary='+document.querySelector('meta[name="description"]').getAttribute('content'));
+		window.open('https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+url+'%3fsharesource%3dqzone&title='+title+'&pics='+pic+'&summary='+document.querySelector('meta[name="description"]').getAttribute('content'));
 	}
 	if(s=='sina'){
-		window.open('http://service.weibo.com/share/share.php?url='+url+'%3fsharesource=weibo&title='+title+'&pic='+pic+'&appkey=2598943777');
+		window.open('http://service.weibo.com/share/share.php?url='+url+'%3fsharesource%3dweibo&title='+title+'&pic='+pic+'&appkey=2598943777');
 	}
 	if(s == 'qq'){
-		window.open('http://connect.qq.com/widget/shareqq/index.html?url='+url+'3fsharesource=qzone&title='+title+'&pics='+pic+'&summary='+document.querySelector('meta[name="description"]').getAttribute('content')+'&desc=福清12345');
+		window.open('http://connect.qq.com/widget/shareqq/index.html?url='+url+'3fsharesource%3dqzone&title='+title+'&pics='+pic+'&summary='+document.querySelector('meta[name="description"]').getAttribute('content')+'&desc=福清12345');
 	}
 	if(s == 'wechat'){
 		var t = document.getElementById('wechatshare');
