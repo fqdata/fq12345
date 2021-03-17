@@ -1,0 +1,740 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: VideoNow 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-12-19 17:58+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-10-30 11:02+0800\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr "404 错误 - 页面未找到"
+
+#: 404.php:21
+msgid ""
+"Sorry, but it looks like nothing was found at this location. You may try one "
+"of the links below or do a search from the site header."
+msgstr ""
+"对不起，好像什么都没有找到。您可以尝试以下链接中的一个，或者搜索本网站。"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "常用分类"
+
+#: admin/customizer-options.php:31
+msgid "Theme Settings"
+msgstr "主题设置"
+
+#: admin/customizer-options.php:37
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/customizer-options.php:45
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/customizer-options.php:58
+msgid "Site Layout"
+msgstr "网站布局"
+
+#: admin/customizer-options.php:67
+msgid "Fixed site header bar"
+msgstr "固定站点标题栏"
+
+#: admin/customizer-options.php:75
+msgid "Display featured content on homepage"
+msgstr "在首页显示精选内容"
+
+#: admin/customizer-options.php:83
+msgid "Display a button under home blocks"
+msgstr "在首页下显示按钮"
+
+#: admin/customizer-options.php:91
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: admin/customizer-options.php:99
+msgid "Button URL"
+msgstr "按钮链接"
+
+#: admin/customizer-options.php:107
+msgid "Display footer widgets"
+msgstr "启用页脚部件"
+
+#: admin/customizer-options.php:115
+msgid "Display related posts on single posts"
+msgstr "在文章页面显示相关文章"
+
+#: admin/customizer-options.php
+msgid "Before post title"
+msgstr "在文章标题之前"
+
+#: admin/customizer-options.php
+msgid "After post title"
+msgstr "在文章标题之后"
+
+#: admin/customizer-options.php
+msgid "Responsive Layout"
+msgstr "响应式布局"
+
+#: admin/customizer-options.php
+msgid "Fixed Layout"
+msgstr "固定布局"
+
+#: admin/customizer-options.php:128
+msgid "Single Post Video Position"
+msgstr "视频在文章的位置"
+
+#: admin/customizer-options.php:137
+msgid "Customize Site Footer Text/Link"
+msgstr "自定义站点页脚文本/链接"
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "标准字体"
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr "全部"
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "西里尔语"
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "西里尔语扩展"
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr "梵文"
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr "希腊语"
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr "希腊语扩展"
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr "高棉语"
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr "拉丁语"
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr "拉丁语扩展"
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "越南语"
+
+#: archive.php:73 category.php:93 inc/widgets/widget-home-posts-block.php:171
+#: index.php:97 index.php:162 page-templates/all-categories.php:33
+#: template-parts/content-search.php:45
+#, php-format
+msgid "View all posts in %s"
+msgstr "查看%s中的所有文章"
+
+#: category.php:45
+msgid "Subscribe to this category"
+msgstr "订阅此分类"
+
+#: category.php:45
+msgid "Subscribe"
+msgstr "订阅"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: footer.php:54
+msgid "There is no footer widgets"
+msgstr "没有页脚部件"
+
+#: footer.php:55
+msgid "Please put some widgets to the <strong>Footer Column 1/2/3/4</strong>"
+msgstr "请把一些部件放到<strong>页脚栏 1/2/3/4</strong>"
+
+#: footer.php:57 index.php:33 index.php:202 sidebar.php:19
+msgid "Okay, I'm doing now"
+msgstr "好的，我这就去做"
+
+#: footer.php:96
+msgid "Add menu for theme location: Footer Menu"
+msgstr "添加主题菜单：底部菜单"
+
+#: functions.php:83
+msgid "Home Content Area"
+msgstr "主页内容区域"
+
+#: functions.php:85
+msgid "Only display the \"Home Posts Block\" and \"Advertisement\" widget."
+msgstr "仅显示\"首页文章块\"和\"广告\"部件。"
+
+#: functions.php:142
+msgid "Header Ad"
+msgstr "头部广告"
+
+#: functions.php:144 functions.php:156
+msgid "Only display the \"Advertisement\" widget."
+msgstr "仅显示\"广告\"部件。"
+
+#: functions.php:154
+msgid "Footer Ad"
+msgstr "底部广告"
+
+#: header.php:62
+msgid "Add menu for theme location: Primary Menu"
+msgstr "添加主题菜单：主菜单"
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "安装必需的插件"
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "正在更新插件：%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "插件API运行错误。"
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "返回到所需的插件安装程序"
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr "返回到仪表板"
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已成功激活："
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作被忽略。插件%1$s已经是激活的。"
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "插件未激活。此主题需要更高版本的%s。请更新插件。"
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。%1$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "忽略该提示"
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "需要安装、更新或激活一个及以上的插件。"
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系网站管理员寻求帮助。"
+
+#: inc/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr "必需的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr "推荐的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr "外部源"
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr "预打包的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr "未安装的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr "已安装但未激活的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr "激活的"
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr "需要的更新尚不可用"
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr "安装版本："
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr "可用版本："
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr "源"
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr "类型"
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr "版本"
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr "状态"
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr "安装 %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr "激活 %2$s"
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr "安装"
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr "更新"
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr "激活"
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "未选中任何待安装的插件。操作无效。"
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "未选中任何待更新的插件。操作无效。"
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr "目前无任何插件可以安装。"
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr "目前无任何插件可以更新。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新插件 %1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s 过程发生错误：<strong>%2$s</strong>。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安装 %1$s 失败。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装及激活过程已经开始了。可能需要一段时间，请耐心等待。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装和激活成功。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr "所有安装和激活任务已经完成。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件：%1$s (%2$d/%3$d)"
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程已经开始了。可能需要一段时间，请耐心等待。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr "所有安装任务已经完成。"
+
+#: inc/classes/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/template-tags.php:23
+msgid "Views"
+msgstr "热度"
+
+#: inc/template-tags.php:138
+msgid "Featured this post on homepage"
+msgstr "设置该文章为首页特色"
+
+#: inc/template-tags.php:158
+msgid "Video Length"
+msgstr "视频长度"
+
+#: inc/template-tags.php:158
+msgid "(optional)"
+msgstr "（可选）"
+
+#: inc/template-tags.php:292
+msgid "All Categories"
+msgstr "全部分类"
+
+#: inc/template-tags.php:293
+msgid "Browse our latest videos by category"
+msgstr "浏览分类的最新文章"
+
+#: inc/widgets/widget-ad.php:97 inc/widgets/widget-popular.php:160
+#: inc/widgets/widget-random.php:135 inc/widgets/widget-recent.php:159
+#: inc/widgets/widget-social.php:136 inc/widgets/widget-views.php:136
+msgid "Title"
+msgstr "标题"
+
+#: inc/widgets/widget-ad.php:104
+msgid "Ad Code"
+msgstr "广告代码"
+
+#: inc/widgets/widget-home-posts-block.php:23
+msgid "Use for \"Home Content Area\" only."
+msgstr "仅用于\"首页内容区域\"。"
+
+#: inc/widgets/widget-home-posts-block.php:31
+msgid "&raquo; Home Posts Block"
+msgstr "&raquo; 首页文章块"
+
+#: inc/widgets/widget-home-posts-block.php:119
+msgid "View More"
+msgstr "查看更多"
+
+#: inc/widgets/widget-home-posts-block.php:261
+msgid "Title (optional)"
+msgstr "标题（可选）"
+
+#: inc/widgets/widget-home-posts-block.php:267
+msgid "Choose Category"
+msgstr "选择分类"
+
+#: inc/widgets/widget-home-posts-block.php:278
+#: inc/widgets/widget-popular.php:167 inc/widgets/widget-random.php:142
+#: inc/widgets/widget-recent.php:166 inc/widgets/widget-views.php:143
+msgid "Number of posts to show"
+msgstr "文章的显示数目"
+
+#: inc/widgets/widget-home-posts-block.php:286
+msgid "Display thumbnail?"
+msgstr "显示缩略图？"
+
+#: inc/widgets/widget-home-posts-block.php:293
+msgid "Display post category?"
+msgstr "显示文章分类？"
+
+#: inc/widgets/widget-home-posts-block.php:300
+msgid "Display post views/date?"
+msgstr "显示文章 浏览量/日期？"
+
+#: inc/widgets/widget-home-posts-block.php:307
+msgid "Display post excerpt?"
+msgstr "显示文章摘要？"
+
+#: inc/widgets/widget-home-posts-block.php:313
+msgid "Number of words to show on excerpt"
+msgstr "摘要的显示字数"
+
+#: inc/widgets/widget-popular.php:23
+msgid "Display popular posts by comments with thumbnails."
+msgstr "用缩略图显示热门评论的视频。"
+
+#: inc/widgets/widget-popular.php
+msgid "Popular Posts"
+msgstr "热门文章"
+
+#: inc/widgets/widget-popular.php:29
+msgid "&raquo; Popular Posts"
+msgstr "&raquo; 热门文章"
+
+#: inc/widgets/widget-popular.php:175 inc/widgets/widget-random.php:150
+#: inc/widgets/widget-recent.php:174 inc/widgets/widget-views.php:151
+msgid "Display post views?"
+msgstr "显示文章浏览量？"
+
+#: inc/widgets/widget-random.php:23
+msgid "Display random posts with thumbnails."
+msgstr "用缩略图显示随机文章。"
+
+#: inc/widgets/widget-random.php:29
+msgid "&raquo; Random Posts"
+msgstr "&raquo; 随机文章"
+
+#: inc/widgets/widget-recent.php:23
+msgid "Display recent posts with thumbnails."
+msgstr "用缩略图显示最近的文章。"
+
+#: inc/widgets/widget-recent.php:29
+msgid "&raquo; Recent Posts"
+msgstr "&raquo; 最近文章"
+
+#: inc/widgets/widget-social.php:23
+msgid "Display your social media icons."
+msgstr "显示您的社交媒体图标。"
+
+#: inc/widgets/widget-social.php:29
+msgid "&raquo; Social Icons"
+msgstr "&raquo; 社交媒体图标"
+
+#: inc/widgets/widget-social.php:143
+msgid "Facebook"
+msgstr "脸书"
+
+#: inc/widgets/widget-social.php:150
+msgid "Twitter"
+msgstr "推特"
+
+#: inc/widgets/widget-social.php:157
+msgid "Google Plus"
+msgstr "谷歌Plus"
+
+#: inc/widgets/widget-social.php:164
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social.php:171
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social.php:178
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social.php:185
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social.php:192
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/widgets/widget-social.php:199
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: inc/widgets/widget-views.php:23
+msgid "Display the most viewed posts with thumbnails."
+msgstr "用缩略图显示查看次数最多的文章。"
+
+#: inc/widgets/widget-views.php:29
+msgid "&raquo; Most Viewed Posts"
+msgstr "&raquo; 观看数最多的文章"
+
+#: index.php:30
+msgid "There is no featured posts"
+msgstr "没有特色文章"
+
+#: index.php:31
+msgid ""
+"Please edit any post and tick the <strong>Featured this post on homepage</"
+"strong> checkbox from <strong>Post Options</strong>"
+msgstr ""
+"请编辑任何文章并且从<strong>文章选项</strong>中勾选<strong>设置该文章为首页特"
+"色</strong>复选框"
+
+#: index.php:31 index.php:200
+msgid "how to"
+msgstr "how to"
+
+#: index.php:191
+msgid "Explore all categories"
+msgstr "浏览所有分类"
+
+#: index.php:199
+msgid "There is no content on homepage"
+msgstr "首页无任何内容"
+
+#: index.php:200
+msgid ""
+"Please put the <strong>Home Posts Block</strong> widget to the <strong>Home "
+"Content Area</strong>"
+msgstr "请将<strong>首页文章块</strong>部件添加到<strong>首页内容区域</strong>"
+
+#: sidebar.php:16
+msgid "There is no content here"
+msgstr "无任何内容"
+
+#: sidebar.php:17
+msgid "Please put some widgets to the <strong>Sidebar</strong>"
+msgstr "请添加部件到 <strong>侧边栏</strong>"
+
+#: template-parts/content-none.php:20
+msgid "Nothing found"
+msgstr "找不到任何东西"
+
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "开始发表你的第一篇文章？<a href=\"%1$s\">从这儿开始</a>。"
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，未找到你需要的东西。请尝试换一个搜索关键词。"
+
+#: template-parts/content-none.php:37
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "似乎我们无法找到你想要的。或许搜索可以帮你。"
+
+#: template-parts/content-single.php:51
+msgid "Comments"
+msgstr "评论"
+
+#: template-parts/content-single.php:59
+msgid "Share on Facebook"
+msgstr "分享到脸书"
+
+#: template-parts/content-single.php:60
+msgid "Share on Twitter"
+msgstr "分享到推特"
+
+#: template-parts/content-single.php:61
+msgid "Share on Pinterest"
+msgstr "分享到Pinterest"
+
+#: template-parts/content-single.php:62
+msgid "Share on Google+"
+msgstr "分享到谷歌Plus"
+
+#: template-parts/content-single.php:75
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-single.php:87
+msgid "Filed in:"
+msgstr "所属分类："
+
+#: template-parts/content-single.php:89
+msgid "Tags:"
+msgstr "标签："
+
+#: template-parts/content-single.php:142
+msgid "You might like"
+msgstr "你可能会喜欢"
+
+#: functions.php
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+#: category.php
+msgid "Previous"
+msgstr "上一页"
+
+#: category.php
+msgid "Next"
+msgstr "下一页"
